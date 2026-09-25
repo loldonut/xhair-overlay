@@ -15,6 +15,8 @@ sources = [
   'main.c',
 ]
 
+install_data('assets/xhair-overlay.desktop', install_dir : get_option('prefix') / get_option('datadir') / 'applications')
+
 executable(
   'xhair-overlay',
   sources,

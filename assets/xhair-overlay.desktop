@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Xhair Overlay
+Comment=Crosshair overlay
+Exec=xhair-overlay
+Icon=xhair-overlay
+Terminal=false
+Categories=Utility;
+
